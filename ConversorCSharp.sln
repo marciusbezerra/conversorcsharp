@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConversorCSharp", "ConversorCSharp.csproj", "{86526310-0775-4CB1-B183-7F055ED8A18C}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{86526310-0775-4CB1-B183-7F055ED8A18C}.Debug.ActiveCfg = Debug|.NET
+		{86526310-0775-4CB1-B183-7F055ED8A18C}.Debug.Build.0 = Debug|.NET
+		{86526310-0775-4CB1-B183-7F055ED8A18C}.Release.ActiveCfg = Release|.NET
+		{86526310-0775-4CB1-B183-7F055ED8A18C}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
